@@ -1,4 +1,4 @@
-body{
+ybody{
 	background-image: url("images/Bg.jpg");
 	/* background-repeat: no-repeat; */
 }
@@ -44,14 +44,14 @@ body{
 	float: right;
 	width: 50%;
 	padding: 160px;
-	color: black;
+	color: whitesmoke;
 	font-size: 25px;
 	font-family: cursive;
 	
   }
   #menu_list{
 	background-color:#f5c71a;
-	color:black; 
+	color:whitesmoke; 
 	width: 200px;
 	border: none;
 	
@@ -83,7 +83,7 @@ body{
 	height:180px;
 	border: none;
 	background-color:#e2062c;
-	color:black;
+	color:whitesmoke;
 	font-size: 25px;
 	font-family: cursive;
   }
